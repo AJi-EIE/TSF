@@ -147,7 +147,6 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-10-01 | [PatchMixer](https://browse.arxiv.org/abs/2310.00655) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting | [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) |
 | 23-11-01 | [WinNet](https://arxiv.org/abs/2311.00214) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | WinNet:time series forecasting with a window-enhanced period extracting and interacting | None |
 | 22-10-17 | [FSNet](https://arxiv.org/abs/2202.11672) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2023 | LEARNING FAST AND SLOW FOR ONLINE TIME SERIES FORECASTING | [FSNet](https://github.com/salesforce/fsnet) |
- | None |
 
 ## GNN.
 Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
