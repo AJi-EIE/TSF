@@ -259,3 +259,4 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 | 16-12-05 | [TRMF](https://proceedings.neurips.cc/paper_files/paper/2016/file/85422afb467e9456013a2a51d4dff702-Paper.pdf) | NIPS 2016 | Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction | [TRMF](https://github.com/rofuyu/exp-trmf-nips16)   |
+| 23-10-11 | [DCdetector](https://arxiv.org/pdf/2306.10347.pdf) | KDD 2023 | DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection | [DCdetector](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)   |
