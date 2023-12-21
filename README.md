@@ -154,6 +154,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-06-19 | [FDNet](https://arxiv.org/abs/2306.10703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KBS 2023 | FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting | [FDNet](https://github.com/OrigamiSL/FDNet-KBS-2023) |
 | 23-10-01 | [PatchMixer](https://browse.arxiv.org/abs/2310.00655) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting | [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) |
 | 23-11-01 | [WinNet](https://arxiv.org/abs/2311.00214) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | WinNet:time series forecasting with a window-enhanced period extracting and interacting | None |
+| 23-11-27 | [ModernTCN](https://openreview.net/forum?id=vpJMJerXHU) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://zhuanlan.zhihu.com/p/668946041) | None |
+| 23-11-27 | [UniRepLKNet](https://arxiv.org/abs/2311.15599) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition | [UniRepLKNet](https://github.com/ailab-cvc/unireplknet) |
 
 
 ## GNN.
@@ -169,6 +171,8 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 22-05-16 | [TPGNN](https://openreview.net/forum?id=pMumil2EJh) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks | [TPGNN](https://github.com/zyplanet/TPGNN) |
 | 22-06-18 | [D2STGNN](https://arxiv.org/abs/2206.09112) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2022 | Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting | [D2STGNN](https://github.com/zezhishao/d2stgnn) |  
 | 23-07-10 | [NexuSQN](https://arxiv.org/abs/2307.01482) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Nexus sine qua non: Essentially connected neural networks for spatial-temporal forecasting of multivariate time series | None |
+| 23-11-10 | [FourierGNN](https://arxiv.org/abs/2311.06190) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | [FourierGNN](https://github.com/aikunyi/FourierGNN) |
+| 23-12-05 | [SAMSGL](https://arxiv.org/abs/2312.02646) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | TETCI 2023 | SAMSGL: Series-Aligned Multi-Scale Graph Learning for Spatio-Temporal Forecasting | None |
 
 
 ## SSM (State Space Model).
@@ -194,6 +198,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | None |
+| 23-10-25 | [D-Va)](https://arxiv.org/abs/2309.00073)| CIKM 2023 |Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction | None |
 
 
 ## Time-index.
@@ -225,6 +230,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-09-14 | [QFCV](https://arxiv.org/abs/2309.07435) | Arxiv 2023 | Uncertainty Intervals for Prediction Errors in Time Series Forecasting | [QFCV](https://github.com/huixu18/qfcv) |
 | 23-10-09 | [PeTS](https://arxiv.org/abs/2310.06077) | Arxiv 2023 | Performative Time-Series Forecasting | [PeTS](https://github.com/adityalab/pets) |
 | 23-10-23 | [EDAIN](https://arxiv.org/abs/2310.14720) | Arxiv 2023 | Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks | [EDAIN](https://github.com/marcusGH/edain_paper) |
+| 23-11-19 | [TimeSQL](https://arxiv.org/abs/2311.11285) | Arxiv 2023 | TimeSQL: Improving Multivariate Time Series Forecasting with Multi-Scale Patching and Smooth Quadratic Loss | None |
 
 ## Pretrain & Representation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
@@ -244,6 +250,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-10-12 | [Lag-Llama](https://arxiv.org/abs/2310.08278) | Arxiv 2023 | Lag-Llama: Towards Foundation Models for Time Series Forecasting | [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts) |
 | 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | Arxiv 2023 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | None |
 | 23-11-03 | [ForecastPFN](https://arxiv.org/abs/2311.01933) | NIPS 2023 | ForecastPFN: Synthetically-Trained Zero-Shot Forecasting | [ForecastPFN](https://github.com/abacusai/forecastpfn) |
+| 23-11-24 | [FPT++](https://arxiv.org/abs/2311.14782) 🌟 | Arxiv 2023 | One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors | [GPT4TS_Adapter](https://github.com/PSacfc/GPT4TS_Adapter) |
+| 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
@@ -261,7 +269,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 22-10-25 | [WaveBound](https://arxiv.org/abs/2210.14303) | NIPS 2022 | WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting | [WaveBound](https://github.com/choyi0521/WaveBound) |
 | 23-05-25 | [Ensembling](https://arxiv.org/abs/2305.15786) | ICML 2023 | Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting | None |
-
+| 23-09-25 | [MemDA](https://arxiv.org/abs/2309.14216) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | CIKM 2023 | MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation |  None  |
 
 ## Other.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
