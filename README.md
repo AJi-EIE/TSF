@@ -58,7 +58,11 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 22-05-27|[TDformer](https://arxiv.org/abs/2212.08151)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |NIPSW 2022|[First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://zhuanlan.zhihu.com/p/596022160)|[TDformer](https://github.com/BeBeYourLove/TDformer)
 22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |NIPS 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|[Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICLR 2023|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|[Scaleformer](https://github.com/BorealisAI/scaleformer)
-22-08-14|[Quatformer](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2022|Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting|[Quatformer](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
+22-08-14|[Quatformer](https://dl.acm.org/doi/abs/10.1145/3534678.3539234
+        
+        
+        
+        )| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2022|Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting|[Quatformer](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
@@ -84,6 +88,11 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 23-10-26 | [ContiFormer](https://seqml.github.io/contiformer/)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | None
 23-10-31 | [BasisFormer](https://arxiv.org/abs/2310.20496)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis | [basisformer](https://github.com/nzl5116190/basisformer)
+23-11-07 | [MTST](https://arxiv.org/abs/2311.04147)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Multi-resolution Time-Series Transformer for Long-term Forecasting | None
+23-11-30 | [MultiResFormer](https://arxiv.org/abs/2311.18780)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | MultiResFormer: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting | None
+23-12-10 | [FPPformer](https://arxiv.org/abs/2312.05792)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | IOT 2023 | Take an Irregular Route: Enhance the Decoder of Time-Series Forecasting Transformer | [FPPformer](https://github.com/OrigamiSL/FPPformer)
+23-12-11 | [Dozerformer](https://arxiv.org/abs/2312.06874)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting | None
+23-12-11 | [CSformer](https://arxiv.org/abs/2312.06220)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -102,6 +111,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| [RNN_ODE_Adap](https://github.com/Yixuan-Tan/RNN_ODE_Adap) |
 23-08-22|[SegRNN](https://arxiv.org/abs/2308.11200)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2023| SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting| None |
 23-10-05|[PA-RNN](https://arxiv.org/abs/2310.03243)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| Sparse Deep Learning for Time Series Data: Theory and Applications | None |
+23-11-03|[WITRAN](https://openreview.net/forum?id=y08bkEtNBK)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting | [WITRAN](https://github.com/Water2sea/WITRAN) |
 
 
 ## MLP.
@@ -126,6 +136,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-07-06 | [FITS](https://arxiv.org/abs/2307.03756) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023  | FITS: Modeling Time Series with 10k Parameters | [FITS](https://anonymous.4open.science/r/FITS) |
 | 23-08-14 | [ST-MLP](https://arxiv.org/abs/2308.07496) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023  | ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting | None |
 | 23-08-25 | [TFDNet](https://arxiv.org/abs/2308.13386) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting | None |
+| 23-11-10 | [FreTS](https://arxiv.org/abs/2311.06184) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | Frequency-domain MLPs are More Effective Learners in Time Series Forecasting | [FreTS](https://github.com/aikunyi/FreTS)
+| 23-09-23 | [FITS](https://arxiv.org/pdf/2307.03756.pdf) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [FITS: Modeling Time Series with 10k Parameters](https://zhuanlan.zhihu.com/p/669221150)| [FITS](https://github.com/VEWOXIC/FITS)
 
 
 ## TCN/CNN.
