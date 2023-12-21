@@ -198,7 +198,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | None |
-| 23-10-25 | [D-Va](https://arxiv.org/abs/2309.00073)| CIKM 2023 |Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction | None |
+| 23-10-25 | [D-Va](https://arxiv.org/abs/2309.00073)| CIKM 2023 |Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction | [D-Va](https://github.com/koa-fin/dva) |
 
 
 ## Time-index.
