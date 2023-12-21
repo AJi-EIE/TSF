@@ -58,11 +58,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 22-05-27|[TDformer](https://arxiv.org/abs/2212.08151)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |NIPSW 2022|[First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://zhuanlan.zhihu.com/p/596022160)|[TDformer](https://github.com/BeBeYourLove/TDformer)
 22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |NIPS 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|[Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICLR 2023|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|[Scaleformer](https://github.com/BorealisAI/scaleformer)
-22-08-14|[Quatformer](https://dl.acm.org/doi/abs/10.1145/3534678.3539234
-        
-        
-        
-        )| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2022|Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting|[Quatformer](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
+22-08-14|[Quatformer](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2022|Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting|[Quatformer](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
@@ -136,8 +132,9 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-07-06 | [FITS](https://arxiv.org/abs/2307.03756) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023  | FITS: Modeling Time Series with 10k Parameters | [FITS](https://anonymous.4open.science/r/FITS) |
 | 23-08-14 | [ST-MLP](https://arxiv.org/abs/2308.07496) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023  | ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting | None |
 | 23-08-25 | [TFDNet](https://arxiv.org/abs/2308.13386) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting | None |
-| 23-11-10 | [FreTS](https://arxiv.org/abs/2311.06184) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | Frequency-domain MLPs are More Effective Learners in Time Series Forecasting | [FreTS](https://github.com/aikunyi/FreTS)
 | 23-09-23 | [FITS](https://arxiv.org/pdf/2307.03756.pdf) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [FITS: Modeling Time Series with 10k Parameters](https://zhuanlan.zhihu.com/p/669221150)| [FITS](https://github.com/VEWOXIC/FITS)
+| 23-11-10 | [FreTS](https://arxiv.org/abs/2311.06184) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | Frequency-domain MLPs are More Effective Learners in Time Series Forecasting | [FreTS](https://github.com/aikunyi/FreTS)
+
 
 
 ## TCN/CNN.
